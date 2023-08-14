@@ -1,4 +1,4 @@
-# Bibliotecas de pré-processamento de dados de texto
+aaaa# Bibliotecas de pré-processamento de dados de texto
 import nltk
 
 import json
